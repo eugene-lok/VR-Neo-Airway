@@ -1,0 +1,4407 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &195236435524848111
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1706207516034353652}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058index3_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1706207516034353652
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 195236435524848111}
+  m_LocalRotation: {x: -0.094243385, y: 0.044878107, z: -0.121831164, w: 0.9870468}
+  m_LocalPosition: {x: -0.70169425, y: -0.0000023841858, z: -0.00000023841858}
+  m_LocalScale: {x: 0.9999999, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 1233091576180842208}
+  m_Father: {fileID: 5255632814364714466}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &217785815950699115
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6930612673359563805}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Pinky1_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6930612673359563805
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 217785815950699115}
+  m_LocalRotation: {x: -0.71986324, y: 0.37320378, z: -0.2577715, w: 0.5254234}
+  m_LocalPosition: {x: -1.0796525, y: -0.00000023841858, z: 0.00000023841858}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 1780490714447930637}
+  m_Father: {fileID: 654997167758711706}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &222868189909049302
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1898161062501766499}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ring1_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1898161062501766499
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 222868189909049302}
+  m_LocalRotation: {x: -0.75913674, y: 0.25770786, z: -0.12401703, w: 0.5847374}
+  m_LocalPosition: {x: -1.0796525, y: -0.00000023841858, z: 0.00000023841858}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 5842940696467148384}
+  m_Father: {fileID: 654997167758711706}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &336308971450385582
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2590994879931193521}
+  - component: {fileID: 7868428732496676037}
+  - component: {fileID: 7868428732496676036}
+  - component: {fileID: 7868428732496676039}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Knee_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2590994879931193521
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336308971450385582}
+  m_LocalRotation: {x: -0.192765, y: 0.39639488, z: 0.17532061, w: 0.88032687}
+  m_LocalPosition: {x: -5.012944, y: 0.00000023841858, z: -0.00000035762787}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5998010084619193834}
+  m_Father: {fileID: 7838357652944253155}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &7868428732496676037
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336308971450385582}
+  serializedVersion: 2
+  m_Mass: 1.875
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!144 &7868428732496676036
+CharacterJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336308971450385582}
+  m_ConnectedBody: {fileID: 7868428731138759390}
+  m_Anchor: {x: 0, y: 0, z: 0}
+  m_Axis: {x: 1, y: 0, z: 0}
+  m_AutoConfigureConnectedAnchor: 1
+  m_ConnectedAnchor: {x: -0.7794852, y: -0.7467128, z: -3.518091}
+  serializedVersion: 2
+  m_SwingAxis: {x: 0, y: -1, z: -1}
+  m_TwistLimitSpring:
+    spring: 0
+    damper: 0
+  m_LowTwistLimit:
+    limit: 3.5127375
+    bounciness: 0
+    contactDistance: 0
+  m_HighTwistLimit:
+    limit: 12.229676
+    bounciness: 0
+    contactDistance: 0
+  m_SwingLimitSpring:
+    spring: 0
+    damper: 0
+  m_Swing1Limit:
+    limit: 30
+    bounciness: 0
+    contactDistance: 0
+  m_Swing2Limit:
+    limit: 30
+    bounciness: 0
+    contactDistance: 0
+  m_EnableProjection: 0
+  m_ProjectionDistance: 0.1
+  m_ProjectionAngle: 180
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 0
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
+--- !u!136 &7868428732496676039
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 336308971450385582}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 2.7453952
+  m_Height: 9.151317
+  m_Direction: 0
+  m_Center: {x: -4.5756583, y: 0, z: 0}
+--- !u!1 &372569116959245615
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6661875654533264200}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ring3_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6661875654533264200
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 372569116959245615}
+  m_LocalRotation: {x: 0.024257813, y: 0.10337977, z: 0.08195543, w: 0.9909629}
+  m_LocalPosition: {x: -0.9088931, y: 0.0000009629875, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4804693485103805444}
+  m_Father: {fileID: 5842940696467148384}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &632524646914121877
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5033076350625983447}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058joint2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5033076350625983447
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 632524646914121877}
+  m_LocalRotation: {x: -0.0029595573, y: -0.0019716586, z: -0.34395686, w: 0.93897873}
+  m_LocalPosition: {x: -5.8302164, y: 0.0000009980286, z: 0.00000000372529}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 2088592789030535159}
+  m_Father: {fileID: 6528629551379286022}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1185118611528063482
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3153603087150341120}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Pinky4_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3153603087150341120
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1185118611528063482}
+  m_LocalRotation: {x: -0.030755471, y: -0.0000011976078, z: 0.000008155214, w: 0.9995269}
+  m_LocalPosition: {x: -0.6991801, y: 0.0000009536743, z: 0.0000011920929}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 9189479370866952036}
+  m_Father: {fileID: 233332613204122483}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1418709758438171830
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2094270965242793359}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058joint6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2094270965242793359
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1418709758438171830}
+  m_LocalRotation: {x: 0.00000003384536, y: 0.000000054600537, z: 0.018270494, w: 0.9998331}
+  m_LocalPosition: {x: -1.109844, y: 0.00000037488843, z: -0.000000001513399}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 3107890167692706589}
+  - {fileID: 8462964447413581091}
+  - {fileID: 7838357652944253155}
+  m_Father: {fileID: 7537531235117492787}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1467381773213257831
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7987983212757792212}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Toe_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7987983212757792212
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1467381773213257831}
+  m_LocalRotation: {x: -0.6154499, y: -0.013191956, z: -0.040554184, w: 0.7870215}
+  m_LocalPosition: {x: -3.3555434, y: -0.0000035762787, z: -0.00000023841858}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2686915784913060351}
+  m_Father: {fileID: 4957249375163592732}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1505219317902664491
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6588890356786906610}
+  - component: {fileID: 6214303760091293007}
+  m_Layer: 0
+  m_Name: rightEye
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6588890356786906610
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1505219317902664491}
+  m_LocalRotation: {x: 0.32105997, y: 0.1643056, z: -0.6744386, w: 0.64424896}
+  m_LocalPosition: {x: 1.9424498, y: 12.090157, z: 13.387367}
+  m_LocalScale: {x: 0.6620001, y: 0.6620002, z: 0.66200024}
+  m_Children: []
+  m_Father: {fileID: 2902837076518094576}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &6214303760091293007
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1505219317902664491}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a598a89733043b440988cf71700d1542, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -1061481326467798641, guid: d0f1df895c0c25744aa26ff8c977a534, type: 3}
+  m_Bones:
+  - {fileID: 7537531235117492787}
+  - {fileID: 2094270965242793359}
+  - {fileID: 3107890167692706589}
+  - {fileID: 2503963750402586237}
+  - {fileID: 4868182118039012713}
+  - {fileID: 847872465245458028}
+  - {fileID: 1800754129233226499}
+  - {fileID: 8374034966541390151}
+  - {fileID: 8742161343678834030}
+  - {fileID: 562806251858333846}
+  - {fileID: 4484586043590789237}
+  - {fileID: 8388135410318883504}
+  - {fileID: 4838451586551749872}
+  - {fileID: 5316813983712264371}
+  - {fileID: 3186527459780955335}
+  - {fileID: 6528629551379286022}
+  - {fileID: 5033076350625983447}
+  - {fileID: 2088592789030535159}
+  - {fileID: 352004028868800989}
+  - {fileID: 5563339826604019608}
+  - {fileID: 4021727079266580389}
+  - {fileID: 6336907578658147182}
+  - {fileID: 7555469975484402764}
+  - {fileID: 8923252661598810565}
+  - {fileID: 8343544187008133115}
+  - {fileID: 3636934777831832956}
+  - {fileID: 4278211600828337130}
+  - {fileID: 4737976786353613210}
+  - {fileID: 6852277386551021396}
+  - {fileID: 5808486700448071003}
+  - {fileID: 3570094502424887967}
+  - {fileID: 5255632814364714466}
+  - {fileID: 1706207516034353652}
+  - {fileID: 1233091576180842208}
+  - {fileID: 9095837307164707641}
+  - {fileID: 1464954261837002142}
+  - {fileID: 7800021424396110964}
+  - {fileID: 6828748976161719460}
+  - {fileID: 7232377933896036380}
+  - {fileID: 8772990852596125453}
+  - {fileID: 204407783007453125}
+  - {fileID: 229985638266002132}
+  - {fileID: 9017589023527299596}
+  - {fileID: 1428842324510417123}
+  - {fileID: 3127247512485242259}
+  - {fileID: 7857469816322393283}
+  - {fileID: 2138907568139550141}
+  - {fileID: 3748310098842607361}
+  - {fileID: 4432137673942428995}
+  - {fileID: 3453475967529045991}
+  - {fileID: 8300121802117953284}
+  - {fileID: 5217778889306157651}
+  - {fileID: 7172649892273109370}
+  - {fileID: 654997167758711706}
+  - {fileID: 56261016454166046}
+  - {fileID: 5021975000118031459}
+  - {fileID: 6805580011949787560}
+  - {fileID: 8719914860133090020}
+  - {fileID: 7548658076082145987}
+  - {fileID: 6383585586224678995}
+  - {fileID: 2737819346369325239}
+  - {fileID: 386116897436203577}
+  - {fileID: 2729280966273690066}
+  - {fileID: 7176986311323075342}
+  - {fileID: 1898161062501766499}
+  - {fileID: 5842940696467148384}
+  - {fileID: 6661875654533264200}
+  - {fileID: 4804693485103805444}
+  - {fileID: 3882614397135114961}
+  - {fileID: 6930612673359563805}
+  - {fileID: 1780490714447930637}
+  - {fileID: 233332613204122483}
+  - {fileID: 3153603087150341120}
+  - {fileID: 9189479370866952036}
+  - {fileID: 2566601951935625583}
+  - {fileID: 2221669934034108913}
+  - {fileID: 6889462167308891044}
+  - {fileID: 5844467875511758746}
+  - {fileID: 663724201397233055}
+  - {fileID: 8462964447413581091}
+  - {fileID: 7026399082921653758}
+  - {fileID: 228511872423345051}
+  - {fileID: 6873464519888102367}
+  - {fileID: 1966778218149269843}
+  - {fileID: 5885094263612233233}
+  - {fileID: 7838357652944253155}
+  - {fileID: 2590994879931193521}
+  - {fileID: 5998010084619193834}
+  - {fileID: 4957249375163592732}
+  - {fileID: 7987983212757792212}
+  - {fileID: 2686915784913060351}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 7537531235117492787}
+  m_AABB:
+    m_Center: {x: -22.038507, y: 9.092237, z: -1.776292}
+    m_Extent: {x: 1.2696133, y: 1.2559097, z: 0.9559599}
+  m_DirtyAABB: 0
+--- !u!1 &1670235755227591665
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7176986311323075342}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058index4_end_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7176986311323075342
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1670235755227591665}
+  m_LocalRotation: {x: 0.00000028312218, y: 0.0000001341102, z: -0.0000009499492,
+    w: 1}
+  m_LocalPosition: {x: -0.3989207, y: 0.00000071525574, z: 0.00000023841858}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_Children: []
+  m_Father: {fileID: 2729280966273690066}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1890886300866755142
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5842940696467148384}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ring2_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5842940696467148384
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1890886300866755142}
+  m_LocalRotation: {x: 0.39528903, y: -0.013406678, z: 0.2151026, w: 0.8929153}
+  m_LocalPosition: {x: -2.6722293, y: 0.0000008940697, z: -0.00000059604645}
+  m_LocalScale: {x: 0.9999998, y: 0.99999976, z: 0.99999976}
+  m_Children:
+  - {fileID: 6661875654533264200}
+  m_Father: {fileID: 1898161062501766499}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1893054545348075917
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3107890167692706589}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Hip
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3107890167692706589
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1893054545348075917}
+  m_LocalRotation: {x: -0.0008749482, y: 0.005676221, z: -0.044856947, w: 0.9989769}
+  m_LocalPosition: {x: -3.1867921, y: 0.00000094609294, z: 0.000000001164153}
+  m_LocalScale: {x: 1, y: 1, z: 0.9999999}
+  m_Children:
+  - {fileID: 2503963750402586237}
+  m_Father: {fileID: 2094270965242793359}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2075635333835302095
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5885094263612233233}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Toe_end_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5885094263612233233
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2075635333835302095}
+  m_LocalRotation: {x: -0.083338134, y: -0.03505767, z: 0.015605109, w: 0.99578226}
+  m_LocalPosition: {x: -1.4096328, y: -0.00000071525574, z: -0.0000013113022}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1966778218149269843}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2161913954198208438
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9017589023527299596}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Pinky3_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9017589023527299596
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2161913954198208438}
+  m_LocalRotation: {x: -0.84560966, y: 0.06922271, z: -0.040953886, w: 0.5277076}
+  m_LocalPosition: {x: -0.6609285, y: -0.0000011920929, z: 0.00000011920929}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1428842324510417123}
+  m_Father: {fileID: 229985638266002132}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2167264034471490787
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2902837076518094576}
+  - component: {fileID: 5098902922446859146}
+  m_Layer: 0
+  m_Name: ragdollBaby
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2902837076518094576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2167264034471490787}
+  m_LocalRotation: {x: -0, y: -0, z: 0.56373245, w: 0.82595754}
+  m_LocalPosition: {x: 2.0613558, y: 4.8213816, z: -3.5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2566134710350328133}
+  - {fileID: 612472621758632339}
+  - {fileID: 6890535362829510282}
+  - {fileID: 6588890356786906610}
+  - {fileID: 2484611595375871068}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 68.629005}
+--- !u!95 &5098902922446859146
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2167264034471490787}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: d0f1df895c0c25744aa26ff8c977a534, type: 3}
+  m_Controller: {fileID: 0}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!1 &2177640018386284756
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7838357652944253155}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Hip_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7838357652944253155
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2177640018386284756}
+  m_LocalRotation: {x: 0.38956523, y: 0.22449704, z: 0.8931208, w: -0.013238131}
+  m_LocalPosition: {x: -3.1867921, y: 0.00000094609294, z: 0.000000001164153}
+  m_LocalScale: {x: 0.99999964, y: 0.9999999, z: 0.9999997}
+  m_Children:
+  - {fileID: 2590994879931193521}
+  m_Father: {fileID: 2094270965242793359}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2213171342746195019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 386116897436203577}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058index3_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &386116897436203577
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2213171342746195019}
+  m_LocalRotation: {x: 0.09424368, y: 0.044881627, z: 0.1218327, w: 0.9870464}
+  m_LocalPosition: {x: -0.7016902, y: -0.0000014305115, z: 0.0000019073486}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2729280966273690066}
+  m_Father: {fileID: 2737819346369325239}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2261270428513815548
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6528629551379286022}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058joint1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6528629551379286022
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2261270428513815548}
+  m_LocalRotation: {x: -0.6300622, y: 0.7765446, z: -0.0003040504, w: -0.000073276206}
+  m_LocalPosition: {x: -2.1654234, y: -0.00000015646219, z: -0.000000007450581}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1.0000001}
+  m_Children:
+  - {fileID: 5033076350625983447}
+  m_Father: {fileID: 8742161343678834030}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2402762098877361660
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5844467875511758746}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Thumb4_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5844467875511758746
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2402762098877361660}
+  m_LocalRotation: {x: -0.045316987, y: -0.0000029382852, z: 0.0000033646247, w: 0.99897265}
+  m_LocalPosition: {x: -0.786577, y: -0.00000011920929, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 663724201397233055}
+  m_Father: {fileID: 6889462167308891044}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2463112175402450224
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4278211600828337130}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Middle2_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4278211600828337130
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2463112175402450224}
+  m_LocalRotation: {x: -0.076397575, y: 0.120945446, z: 0.07952602, w: 0.9865147}
+  m_LocalPosition: {x: -2.654502, y: -0.00000023841858, z: 0.0000021457672}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4737976786353613210}
+  m_Father: {fileID: 3636934777831832956}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2531727621208835264
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 233332613204122483}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Pinky3_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &233332613204122483
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2531727621208835264}
+  m_LocalRotation: {x: 0.06910578, y: 0.07613109, z: 0.025861822, w: 0.99436396}
+  m_LocalPosition: {x: -0.6609185, y: 0.00000029802322, z: -0.00000047683716}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3153603087150341120}
+  m_Father: {fileID: 1780490714447930637}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2568755845978677788
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3636934777831832956}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Middle1_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3636934777831832956
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2568755845978677788}
+  m_LocalRotation: {x: -0.09411085, y: 0.0931344, z: 0.10311746, w: 0.9858174}
+  m_LocalPosition: {x: -1.0796736, y: -0.0000009536743, z: 0.000000834465}
+  m_LocalScale: {x: 1, y: 1, z: 0.9999998}
+  m_Children:
+  - {fileID: 4278211600828337130}
+  m_Father: {fileID: 8343544187008133115}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2583784553289203525
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1966778218149269843}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Toe_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1966778218149269843
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2583784553289203525}
+  m_LocalRotation: {x: 0.6154453, y: -0.0132110715, z: 0.04054137, w: 0.7870254}
+  m_LocalPosition: {x: -3.3555436, y: -0.0000014007092, z: -0.000000059604645}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 5885094263612233233}
+  m_Father: {fileID: 6873464519888102367}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2649315291023646827
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2566601951935625583}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Thumb1_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2566601951935625583
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2649315291023646827}
+  m_LocalRotation: {x: 0.23680356, y: 0.51613694, z: 0.2909187, w: 0.76999545}
+  m_LocalPosition: {x: -1.0796525, y: -0.00000023841858, z: 0.00000023841858}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 2221669934034108913}
+  m_Father: {fileID: 654997167758711706}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2833841495094306306
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8374034966541390151}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Neck2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8374034966541390151
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2833841495094306306}
+  m_LocalRotation: {x: -0.002513799, y: 0.000023008988, z: 0.14905106, w: 0.98882633}
+  m_LocalPosition: {x: -1.7854146, y: 0.000000027939677, z: 0.000000006752089}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 8742161343678834030}
+  m_Father: {fileID: 1800754129233226499}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2835789454436137195
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4021727079266580389}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058joint5_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4021727079266580389
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2835789454436137195}
+  m_LocalRotation: {x: -0.00006792043, y: 0.000016956903, z: -0.00061838067, w: 0.9999998}
+  m_LocalPosition: {x: -0.39891803, y: 0.000000048428774, z: -0.00000028545037}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 5563339826604019608}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2855907763613995851
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5021975000118031459}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Middle2_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5021975000118031459
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2855907763613995851}
+  m_LocalRotation: {x: -0.6544801, y: 0.14130281, z: 0.031385653, w: 0.7420945}
+  m_LocalPosition: {x: -2.6545475, y: 0.0000009536743, z: -0.00000166893}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 0.9999998}
+  m_Children:
+  - {fileID: 6805580011949787560}
+  m_Father: {fileID: 56261016454166046}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2864994139204443870
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5255632814364714466}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058index2_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5255632814364714466
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2864994139204443870}
+  m_LocalRotation: {x: 0.09963869, y: 0.14146699, z: -0.12456102, w: 0.97700757}
+  m_LocalPosition: {x: -2.8108087, y: 0.00000047683716, z: 0.00000047683716}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 1706207516034353652}
+  m_Father: {fileID: 3570094502424887967}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3014815332480809991
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8923252661598810565}
+  - component: {fileID: 7868428731636074900}
+  - component: {fileID: 7868428731636074901}
+  - component: {fileID: 7868428731636074903}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Forearm_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8923252661598810565
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3014815332480809991}
+  m_LocalRotation: {x: 0.36930168, y: 0.000029813902, z: -0.10891063, w: 0.9229056}
+  m_LocalPosition: {x: -7.5229526, y: 0.0000009536743, z: 0.00000086426735}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1.0000001}
+  m_Children:
+  - {fileID: 8343544187008133115}
+  m_Father: {fileID: 7555469975484402764}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &7868428731636074900
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3014815332480809991}
+  serializedVersion: 2
+  m_Mass: 1.25
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!144 &7868428731636074901
+CharacterJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3014815332480809991}
+  m_ConnectedBody: {fileID: 7868428731923397998}
+  m_Anchor: {x: 0, y: 0, z: 0}
+  m_Axis: {x: 0, y: 0, z: -1}
+  m_AutoConfigureConnectedAnchor: 1
+  m_ConnectedAnchor: {x: -7.522958, y: 0.000002026558, z: -0.000007867814}
+  serializedVersion: 2
+  m_SwingAxis: {x: 0, y: 1, z: 0}
+  m_TwistLimitSpring:
+    spring: 0
+    damper: 0
+  m_LowTwistLimit:
+    limit: -90
+    bounciness: 0
+    contactDistance: 0
+  m_HighTwistLimit:
+    limit: 20
+    bounciness: 0
+    contactDistance: 0
+  m_SwingLimitSpring:
+    spring: 0
+    damper: 0
+  m_Swing1Limit:
+    limit: 20
+    bounciness: 0
+    contactDistance: 0
+  m_Swing2Limit:
+    limit: 30
+    bounciness: 0
+    contactDistance: 0
+  m_EnableProjection: 0
+  m_ProjectionDistance: 0.1
+  m_ProjectionAngle: 180
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 0
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
+--- !u!136 &7868428731636074903
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3014815332480809991}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 1.9272299
+  m_Height: 11.219422
+  m_Direction: 0
+  m_Center: {x: -5.559743, y: -0.48999953, z: 0.36475417}
+--- !u!1 &3180911092424042901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7232377933896036380}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ring4_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7232377933896036380
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3180911092424042901}
+  m_LocalRotation: {x: 0.91989505, y: 0.0000018186273, z: -0.0000014054511, w: 0.39216462}
+  m_LocalPosition: {x: -0.80040187, y: 0.00000047683716, z: 0.0000017881393}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8772990852596125453}
+  m_Father: {fileID: 6828748976161719460}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3221151789733658122
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6873464519888102367}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058foot_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6873464519888102367
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3221151789733658122}
+  m_LocalRotation: {x: 0.07637717, y: -0.03197689, z: -0.54838324, w: 0.8321177}
+  m_LocalPosition: {x: -9.919492, y: 0.00000035762787, z: -0.0000009536743}
+  m_LocalScale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+  m_Children:
+  - {fileID: 1966778218149269843}
+  m_Father: {fileID: 228511872423345051}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3236880216026931110
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2566134710350328133}
+  - component: {fileID: 1223023643288069318}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018_Fetus_Body1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2566134710350328133
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3236880216026931110}
+  m_LocalRotation: {x: 0.000000037529425, y: 0.000000017065776, z: 0.0000000022782864,
+    w: 1}
+  m_LocalPosition: {x: 0.53, y: 1.37, z: 0}
+  m_LocalScale: {x: 0.9999989, y: 0.99999905, z: 0.9999991}
+  m_Children: []
+  m_Father: {fileID: 2902837076518094576}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &1223023643288069318
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3236880216026931110}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: bc245384eeb37934382ec43babaf10e4, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 125064139904363970, guid: d0f1df895c0c25744aa26ff8c977a534, type: 3}
+  m_Bones:
+  - {fileID: 7537531235117492787}
+  - {fileID: 2094270965242793359}
+  - {fileID: 3107890167692706589}
+  - {fileID: 2503963750402586237}
+  - {fileID: 4868182118039012713}
+  - {fileID: 847872465245458028}
+  - {fileID: 1800754129233226499}
+  - {fileID: 8374034966541390151}
+  - {fileID: 8742161343678834030}
+  - {fileID: 562806251858333846}
+  - {fileID: 4484586043590789237}
+  - {fileID: 8388135410318883504}
+  - {fileID: 4838451586551749872}
+  - {fileID: 5316813983712264371}
+  - {fileID: 3186527459780955335}
+  - {fileID: 6528629551379286022}
+  - {fileID: 5033076350625983447}
+  - {fileID: 2088592789030535159}
+  - {fileID: 352004028868800989}
+  - {fileID: 5563339826604019608}
+  - {fileID: 4021727079266580389}
+  - {fileID: 6336907578658147182}
+  - {fileID: 7555469975484402764}
+  - {fileID: 8923252661598810565}
+  - {fileID: 8343544187008133115}
+  - {fileID: 3636934777831832956}
+  - {fileID: 4278211600828337130}
+  - {fileID: 4737976786353613210}
+  - {fileID: 6852277386551021396}
+  - {fileID: 5808486700448071003}
+  - {fileID: 3570094502424887967}
+  - {fileID: 5255632814364714466}
+  - {fileID: 1706207516034353652}
+  - {fileID: 1233091576180842208}
+  - {fileID: 9095837307164707641}
+  - {fileID: 1464954261837002142}
+  - {fileID: 7800021424396110964}
+  - {fileID: 6828748976161719460}
+  - {fileID: 7232377933896036380}
+  - {fileID: 8772990852596125453}
+  - {fileID: 204407783007453125}
+  - {fileID: 229985638266002132}
+  - {fileID: 9017589023527299596}
+  - {fileID: 1428842324510417123}
+  - {fileID: 3127247512485242259}
+  - {fileID: 7857469816322393283}
+  - {fileID: 2138907568139550141}
+  - {fileID: 3748310098842607361}
+  - {fileID: 4432137673942428995}
+  - {fileID: 3453475967529045991}
+  - {fileID: 8300121802117953284}
+  - {fileID: 5217778889306157651}
+  - {fileID: 7172649892273109370}
+  - {fileID: 654997167758711706}
+  - {fileID: 56261016454166046}
+  - {fileID: 5021975000118031459}
+  - {fileID: 6805580011949787560}
+  - {fileID: 8719914860133090020}
+  - {fileID: 7548658076082145987}
+  - {fileID: 6383585586224678995}
+  - {fileID: 2737819346369325239}
+  - {fileID: 386116897436203577}
+  - {fileID: 2729280966273690066}
+  - {fileID: 7176986311323075342}
+  - {fileID: 1898161062501766499}
+  - {fileID: 5842940696467148384}
+  - {fileID: 6661875654533264200}
+  - {fileID: 4804693485103805444}
+  - {fileID: 3882614397135114961}
+  - {fileID: 6930612673359563805}
+  - {fileID: 1780490714447930637}
+  - {fileID: 233332613204122483}
+  - {fileID: 3153603087150341120}
+  - {fileID: 9189479370866952036}
+  - {fileID: 2566601951935625583}
+  - {fileID: 2221669934034108913}
+  - {fileID: 6889462167308891044}
+  - {fileID: 5844467875511758746}
+  - {fileID: 663724201397233055}
+  - {fileID: 8462964447413581091}
+  - {fileID: 7026399082921653758}
+  - {fileID: 228511872423345051}
+  - {fileID: 6873464519888102367}
+  - {fileID: 1966778218149269843}
+  - {fileID: 5885094263612233233}
+  - {fileID: 7838357652944253155}
+  - {fileID: 2590994879931193521}
+  - {fileID: 5998010084619193834}
+  - {fileID: 4957249375163592732}
+  - {fileID: 7987983212757792212}
+  - {fileID: 2686915784913060351}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 7537531235117492787}
+  m_AABB:
+    m_Center: {x: -5.51029, y: 1.7890139, z: -0.758379}
+    m_Extent: {x: 26.57044, y: 13.9093895, z: 20.631763}
+  m_DirtyAABB: 0
+--- !u!1 &3384248882098963272
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5563339826604019608}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058joint5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5563339826604019608
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3384248882098963272}
+  m_LocalRotation: {x: 0.7071067, y: 0.0000022004851, z: 0.0000022963036, w: 0.7071068}
+  m_LocalPosition: {x: -0.4661105, y: -0.000000404194, z: 0.000000029802322}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 4021727079266580389}
+  m_Father: {fileID: 352004028868800989}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3392895037805617857
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 229985638266002132}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Pinky2_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &229985638266002132
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3392895037805617857}
+  m_LocalRotation: {x: 0.029923469, y: -0.18783107, z: -0.16736977, w: 0.9673735}
+  m_LocalPosition: {x: -2.779929, y: 0.00000023841858, z: -0.00000071525574}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 9017589023527299596}
+  m_Father: {fileID: 204407783007453125}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3418227272337326943
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2686915784913060351}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Toe_end_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2686915784913060351
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3418227272337326943}
+  m_LocalRotation: {x: -0.11809802, y: -0.031213174, z: -0.022322489, w: 0.9922602}
+  m_LocalPosition: {x: -1.4096866, y: 0, z: -0.0000032186508}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 7987983212757792212}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3488554333463418209
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2737819346369325239}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058index2_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2737819346369325239
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3488554333463418209}
+  m_LocalRotation: {x: -0.09963818, y: 0.14146782, z: 0.124559626, w: 0.9770077}
+  m_LocalPosition: {x: -2.8108082, y: 0.0000014901161, z: -0.00000047683716}
+  m_LocalScale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+  m_Children:
+  - {fileID: 386116897436203577}
+  m_Father: {fileID: 6383585586224678995}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3582315937669481118
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2503963750402586237}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Back1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2503963750402586237
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3582315937669481118}
+  m_LocalRotation: {x: -0.00000025415653, y: 0.000000016788773, z: -0.01406209, w: 0.9999011}
+  m_LocalPosition: {x: -3.1278288, y: 0.00000006851769, z: 0.000000005122274}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 4868182118039012713}
+  m_Father: {fileID: 3107890167692706589}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3820051831733589869
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4868182118039012713}
+  - component: {fileID: 7868428733106366714}
+  - component: {fileID: 7868428733106366717}
+  - component: {fileID: 7868428733106366716}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Back2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4868182118039012713
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3820051831733589869}
+  m_LocalRotation: {x: -0.0032163933, y: 0.0050447453, z: 0.013476332, w: 0.99989134}
+  m_LocalPosition: {x: -3.638052, y: -0.0000002313318, z: -0.000000009546056}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 847872465245458028}
+  m_Father: {fileID: 2503963750402586237}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &7868428733106366714
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3820051831733589869}
+  serializedVersion: 2
+  m_Mass: 3.125
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!144 &7868428733106366717
+CharacterJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3820051831733589869}
+  m_ConnectedBody: {fileID: 7868428731138759390}
+  m_Anchor: {x: 0, y: 0, z: 0}
+  m_Axis: {x: -1, y: 0, z: 0}
+  m_AutoConfigureConnectedAnchor: 1
+  m_ConnectedAnchor: {x: -11.04351, y: 0.3455119, z: 0.075953476}
+  serializedVersion: 2
+  m_SwingAxis: {x: 0, y: 1, z: 0}
+  m_TwistLimitSpring:
+    spring: 0
+    damper: 0
+  m_LowTwistLimit:
+    limit: -30
+    bounciness: 0
+    contactDistance: 0
+  m_HighTwistLimit:
+    limit: 20
+    bounciness: 0
+    contactDistance: 0
+  m_SwingLimitSpring:
+    spring: 0
+    damper: 0
+  m_Swing1Limit:
+    limit: 20
+    bounciness: 0
+    contactDistance: 0
+  m_Swing2Limit:
+    limit: 30
+    bounciness: 0
+    contactDistance: 0
+  m_EnableProjection: 0
+  m_ProjectionDistance: 0.1
+  m_ProjectionAngle: 180
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 0
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
+--- !u!65 &7868428733106366716
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3820051831733589869}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 10.382918, y: 7.591113, z: 10.165146}
+  m_Center: {x: 5.1914525, y: -0.21814823, z: -0.0000023841858}
+--- !u!1 &3879017553433768946
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 612472621758632339}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058transform1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &612472621758632339
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3879017553433768946}
+  m_LocalRotation: {x: -0.009346968, y: -0.7115172, z: 0.012311749, w: 0.7024987}
+  m_LocalPosition: {x: 1.0517341, y: 1.6934409, z: 0.08900766}
+  m_LocalScale: {x: 0.17493, y: 0.17493, z: 0.17493}
+  m_Children:
+  - {fileID: 7537531235117492787}
+  m_Father: {fileID: 2902837076518094576}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3904657847232539603
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6889462167308891044}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Thumb3_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6889462167308891044
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3904657847232539603}
+  m_LocalRotation: {x: -0.06930534, y: -0.11265049, z: 0.12693395, w: 0.9830536}
+  m_LocalPosition: {x: -0.88821125, y: 0.00000029802322, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 5844467875511758746}
+  m_Father: {fileID: 2221669934034108913}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4003873232848451225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8742161343678834030}
+  - component: {fileID: 7868428732488199258}
+  - component: {fileID: 7868428732488199259}
+  - component: {fileID: 7868428732488199261}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Head1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8742161343678834030
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4003873232848451225}
+  m_LocalRotation: {x: -0.000000105619854, y: 0.000000052978507, z: 0.04675104, w: 0.9989066}
+  m_LocalPosition: {x: -1.370119, y: 0.00000017508864, z: -0.000000001862645}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 562806251858333846}
+  - {fileID: 6528629551379286022}
+  m_Father: {fileID: 8374034966541390151}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &7868428732488199258
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4003873232848451225}
+  serializedVersion: 2
+  m_Mass: 1.25
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!144 &7868428732488199259
+CharacterJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4003873232848451225}
+  m_ConnectedBody: {fileID: 7868428733106366714}
+  m_Anchor: {x: 0, y: 0, z: 0}
+  m_Axis: {x: -1, y: 0, z: 0}
+  m_AutoConfigureConnectedAnchor: 1
+  m_ConnectedAnchor: {x: -9.061654, y: 1.8002702, z: 0.0033761058}
+  serializedVersion: 2
+  m_SwingAxis: {x: 1, y: 1, z: 0}
+  m_TwistLimitSpring:
+    spring: 0
+    damper: 0
+  m_LowTwistLimit:
+    limit: -40
+    bounciness: 0
+    contactDistance: 0
+  m_HighTwistLimit:
+    limit: 50
+    bounciness: 0
+    contactDistance: 0
+  m_SwingLimitSpring:
+    spring: 0
+    damper: 0
+  m_Swing1Limit:
+    limit: 30
+    bounciness: 0
+    contactDistance: 0
+  m_Swing2Limit:
+    limit: 30
+    bounciness: 0
+    contactDistance: 0
+  m_EnableProjection: 0
+  m_ProjectionDistance: 0.1
+  m_ProjectionAngle: 180
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 0
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
+--- !u!135 &7868428732488199261
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4003873232848451225}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 5.64
+  m_Center: {x: -4.42, y: 0.64, z: 0.17}
+--- !u!1 &4213330532625504834
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3882614397135114961}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ring4_end_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3882614397135114961
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4213330532625504834}
+  m_LocalRotation: {x: -0.0000014677413, y: 0.000009264801, z: -0.0000024922056, w: 1}
+  m_LocalPosition: {x: -0.39891958, y: 0.00000023841858, z: 0.00000166893}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4804693485103805444}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4262832422610399738
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4957249375163592732}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058foot_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4957249375163592732
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4262832422610399738}
+  m_LocalRotation: {x: -0.07637697, y: -0.03197709, z: 0.54838336, w: 0.8321176}
+  m_LocalPosition: {x: -9.91948, y: 0.0000010728836, z: -0.00000023841858}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7987983212757792212}
+  m_Father: {fileID: 5998010084619193834}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4284996384935106857
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 847872465245458028}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Back3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &847872465245458028
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4284996384935106857}
+  m_LocalRotation: {x: -1.7461915e-10, y: -0.00000001495937, z: 0.0000002579109, w: 1}
+  m_LocalPosition: {x: -3.5387435, y: 0.0000003471505, z: 0.000000003434252}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 6336907578658147182}
+  - {fileID: 1800754129233226499}
+  - {fileID: 8300121802117953284}
+  m_Father: {fileID: 4868182118039012713}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4307038158223228210
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4432137673942428995}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Thumb4_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4432137673942428995
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4307038158223228210}
+  m_LocalRotation: {x: -0.00000092760115, y: 0.0000027567137, z: 0.0000013653215,
+    w: 1}
+  m_LocalPosition: {x: -0.786623, y: -0.0000010728836, z: -0.0000020861626}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 0.9999998}
+  m_Children:
+  - {fileID: 3453475967529045991}
+  m_Father: {fileID: 3748310098842607361}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4314150678520977791
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3186527459780955335}
+  m_Layer: 0
+  m_Name: Top_Lip_Control
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3186527459780955335
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4314150678520977791}
+  m_LocalRotation: {x: -0.61772454, y: 0.31386828, z: -0.33890748, w: 0.63643134}
+  m_LocalPosition: {x: -0.06524737, y: 5.7513127, z: -0.01823905}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_Children: []
+  m_Father: {fileID: 562806251858333846}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4316137722157769872
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2729280966273690066}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058index4_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2729280966273690066
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4316137722157769872}
+  m_LocalRotation: {x: -0.07066933, y: -0.0000009783831, z: 0.00000092783057, w: 0.9974998}
+  m_LocalPosition: {x: -0.6660184, y: 0.00000071525574, z: 0.0000014305115}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7176986311323075342}
+  m_Father: {fileID: 386116897436203577}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4339282254230437486
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4804693485103805444}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ring4_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4804693485103805444
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4339282254230437486}
+  m_LocalRotation: {x: 0.15950988, y: -0.0000069056086, z: -0.000004506875, w: 0.9871964}
+  m_LocalPosition: {x: -0.8004894, y: -0.0000009536743, z: 0}
+  m_LocalScale: {x: 1, y: 0.9999999, z: 1}
+  m_Children:
+  - {fileID: 3882614397135114961}
+  m_Father: {fileID: 6661875654533264200}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4477568016854892415
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 562806251858333846}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Head2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &562806251858333846
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4477568016854892415}
+  m_LocalRotation: {x: -0.0073985844, y: 0.005360259, z: -0.04021802, w: 0.9991492}
+  m_LocalPosition: {x: -2.1654234, y: -0.00000015646219, z: -0.000000007450581}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 1}
+  m_Children:
+  - {fileID: 5316813983712264371}
+  - {fileID: 4838451586551749872}
+  - {fileID: 8388135410318883504}
+  - {fileID: 4484586043590789237}
+  - {fileID: 3186527459780955335}
+  m_Father: {fileID: 8742161343678834030}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4529401002116591953
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5217778889306157651}
+  - component: {fileID: 7868428731570140026}
+  - component: {fileID: 7868428731570140029}
+  - component: {fileID: 7868428731570140028}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Shoulder_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5217778889306157651
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4529401002116591953}
+  m_LocalRotation: {x: 0.96759325, y: -0.20679598, z: 0.108989306, w: 0.09549949}
+  m_LocalPosition: {x: -5.3649907, y: 0.0000002682209, z: 0.000000059604645}
+  m_LocalScale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 7172649892273109370}
+  m_Father: {fileID: 8300121802117953284}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &7868428731570140026
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4529401002116591953}
+  serializedVersion: 2
+  m_Mass: 1.25
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!144 &7868428731570140029
+CharacterJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4529401002116591953}
+  m_ConnectedBody: {fileID: 7868428733106366714}
+  m_Anchor: {x: 0, y: 0, z: 0}
+  m_Axis: {x: 0, y: -1, z: 0}
+  m_AutoConfigureConnectedAnchor: 1
+  m_ConnectedAnchor: {x: -4.7993164, y: 0.12715451, z: -5.082574}
+  serializedVersion: 2
+  m_SwingAxis: {x: 0, y: 0, z: 1}
+  m_TwistLimitSpring:
+    spring: 0
+    damper: 0
+  m_LowTwistLimit:
+    limit: -60
+    bounciness: 0
+    contactDistance: 0
+  m_HighTwistLimit:
+    limit: 100
+    bounciness: 0
+    contactDistance: 0
+  m_SwingLimitSpring:
+    spring: 0
+    damper: 0
+  m_Swing1Limit:
+    limit: 60
+    bounciness: 0
+    contactDistance: 0
+  m_Swing2Limit:
+    limit: 50
+    bounciness: 0
+    contactDistance: 0
+  m_EnableProjection: 0
+  m_ProjectionDistance: 0.1
+  m_ProjectionAngle: 180
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 0
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
+--- !u!136 &7868428731570140028
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4529401002116591953}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 1.8821752
+  m_Height: 7.528701
+  m_Direction: 0
+  m_Center: {x: -3.7643504, y: 0, z: 0}
+--- !u!1 &4755591725950678501
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2088592789030535159}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058joint3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2088592789030535159
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4755591725950678501}
+  m_LocalRotation: {x: 0.0024607931, y: 0.0022268896, z: 0.14345148, w: 0.9896518}
+  m_LocalPosition: {x: -0.565716, y: -0.00000022328459, z: -0.000000029802322}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 352004028868800989}
+  m_Father: {fileID: 5033076350625983447}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4939424724407261507
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7800021424396110964}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ring2_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7800021424396110964
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4939424724407261507}
+  m_LocalRotation: {x: 0.0018485695, y: -0.09966027, z: -0.19112504, w: 0.9764915}
+  m_LocalPosition: {x: -2.6722336, y: -0.0000011920929, z: 0.00000059604645}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 6828748976161719460}
+  m_Father: {fileID: 1464954261837002142}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4975915416594087236
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 56261016454166046}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Middle1_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &56261016454166046
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4975915416594087236}
+  m_LocalRotation: {x: 0.09411254, y: 0.09312771, z: -0.10313326, w: 0.98581624}
+  m_LocalPosition: {x: -1.0796525, y: -0.00000023841858, z: 0.00000023841858}
+  m_LocalScale: {x: 1, y: 1, z: 0.9999999}
+  m_Children:
+  - {fileID: 5021975000118031459}
+  m_Father: {fileID: 654997167758711706}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5073631700617977806
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6828748976161719460}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ring3_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6828748976161719460
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5073631700617977806}
+  m_LocalRotation: {x: 0.8907168, y: -0.12065754, z: 0.053259134, w: -0.43500438}
+  m_LocalPosition: {x: -0.9089818, y: 0.00000047683716, z: -0.0000014305115}
+  m_LocalScale: {x: 0.9999998, y: 0.99999994, z: 0.9999999}
+  m_Children:
+  - {fileID: 7232377933896036380}
+  m_Father: {fileID: 7800021424396110964}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5147091702645536679
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4737976786353613210}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Middle3_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4737976786353613210
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5147091702645536679}
+  m_LocalRotation: {x: -0.096004695, y: 0.086870275, z: 0.0858829, w: 0.9878567}
+  m_LocalPosition: {x: -0.9340944, y: 0.00000023841858, z: 0.00000035762787}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 6852277386551021396}
+  m_Father: {fileID: 4278211600828337130}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5235446766349975429
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5808486700448071003}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Middle4_end_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5808486700448071003
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5235446766349975429}
+  m_LocalRotation: {x: -0.000003911556, y: 0.0000132564455, z: 0.00000007828295, w: 1}
+  m_LocalPosition: {x: -0.39891636, y: 0.00000333786, z: 0.00000071525574}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 6852277386551021396}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5375270096925340880
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7172649892273109370}
+  - component: {fileID: 7868428732557125636}
+  - component: {fileID: 7868428732557125637}
+  - component: {fileID: 7868428732557125639}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Forearm_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7172649892273109370
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5375270096925340880}
+  m_LocalRotation: {x: 0.97072035, y: 0.16481955, z: -0.06348211, w: 0.16280857}
+  m_LocalPosition: {x: -7.5286984, y: 0.00000035762787, z: -0.00000011920929}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.9999999}
+  m_Children:
+  - {fileID: 654997167758711706}
+  m_Father: {fileID: 5217778889306157651}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &7868428732557125636
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5375270096925340880}
+  serializedVersion: 2
+  m_Mass: 1.25
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!144 &7868428732557125637
+CharacterJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5375270096925340880}
+  m_ConnectedBody: {fileID: 7868428731570140026}
+  m_Anchor: {x: 0, y: 0, z: 0}
+  m_Axis: {x: 0, y: 1, z: 0}
+  m_AutoConfigureConnectedAnchor: 1
+  m_ConnectedAnchor: {x: -7.528701, y: -0.0000033378606, z: -0.00000858307}
+  serializedVersion: 2
+  m_SwingAxis: {x: 0, y: 0, z: -1}
+  m_TwistLimitSpring:
+    spring: 0
+    damper: 0
+  m_LowTwistLimit:
+    limit: -20
+    bounciness: 0
+    contactDistance: 0
+  m_HighTwistLimit:
+    limit: 90
+    bounciness: 0
+    contactDistance: 0
+  m_SwingLimitSpring:
+    spring: 0
+    damper: 0
+  m_Swing1Limit:
+    limit: 20
+    bounciness: 0
+    contactDistance: 0
+  m_Swing2Limit:
+    limit: 30
+    bounciness: 0
+    contactDistance: 0
+  m_EnableProjection: 0
+  m_ProjectionDistance: 0.1
+  m_ProjectionAngle: 180
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 0
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
+--- !u!136 &7868428732557125639
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5375270096925340880}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 1.73
+  m_Height: 11.464179
+  m_Direction: 0
+  m_Center: {x: -5.7320895, y: -0.23, z: 0}
+--- !u!1 &5417448157628687732
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2221669934034108913}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Thumb2_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2221669934034108913
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5417448157628687732}
+  m_LocalRotation: {x: 0.74869174, y: -0.37206507, z: 0.14841323, w: 0.52820617}
+  m_LocalPosition: {x: -1.9462124, y: 0.00000020861626, z: 0.000003993511}
+  m_LocalScale: {x: 0.9999997, y: 0.9999999, z: 0.9999998}
+  m_Children:
+  - {fileID: 6889462167308891044}
+  m_Father: {fileID: 2566601951935625583}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5505537361205839813
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7548658076082145987}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Middle4_end_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7548658076082145987
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5505537361205839813}
+  m_LocalRotation: {x: -0.0000016868155, y: -0.0000112056805, z: 0.0000038366816,
+    w: 1}
+  m_LocalPosition: {x: -0.39891982, y: -0.00000086054206, z: 0.0000009536743}
+  m_LocalScale: {x: 0.9999999, y: 0.9999998, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8719914860133090020}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5543577665741430989
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4484586043590789237}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Head2_end
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4484586043590789237
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5543577665741430989}
+  m_LocalRotation: {x: -0.00000022543529, y: -0.0000000070813826, z: -0.01868447,
+    w: 0.9998254}
+  m_LocalPosition: {x: -7.8745985, y: -0.00000020861626, z: 0.000000029802322}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 562806251858333846}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5618514803228650865
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3453475967529045991}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Thumb4_end_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3453475967529045991
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5618514803228650865}
+  m_LocalRotation: {x: 0.00000059604434, y: -0.00000058487285, z: -0.0000036954882,
+    w: 1}
+  m_LocalPosition: {x: -0.39891505, y: 0.00000047683716, z: -0.000000059604645}
+  m_LocalScale: {x: 0.9999999, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4432137673942428995}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5750957724777131075
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5316813983712264371}
+  m_Layer: 0
+  m_Name: Bottom_Lip_Control
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5316813983712264371
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5750957724777131075}
+  m_LocalRotation: {x: 0.4325505, y: -0.5387825, z: 0.56065613, w: -0.4563751}
+  m_LocalPosition: {x: 0.2952073, y: 3.2196808, z: 0.023006689}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children: []
+  m_Father: {fileID: 562806251858333846}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5770999134701305378
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 654997167758711706}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Wrist_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &654997167758711706
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5770999134701305378}
+  m_LocalRotation: {x: 0.977606, y: -0.071083, z: 0.08094694, w: -0.18077983}
+  m_LocalPosition: {x: -6.5377464, y: 0.0000015497208, z: -0.0000004172325}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 6383585586224678995}
+  - {fileID: 56261016454166046}
+  - {fileID: 6930612673359563805}
+  - {fileID: 1898161062501766499}
+  - {fileID: 2566601951935625583}
+  m_Father: {fileID: 7172649892273109370}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5821280861295336142
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8772990852596125453}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ring4_end_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8772990852596125453
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5821280861295336142}
+  m_LocalRotation: {x: -0.0000032819976, y: 0.0000032856888, z: 0.0000052657088, w: 1}
+  m_LocalPosition: {x: -0.3989194, y: -0.00000071525574, z: -0.00000023841858}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1}
+  m_Children: []
+  m_Father: {fileID: 7232377933896036380}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5917147235120540837
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6852277386551021396}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Middle4_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6852277386551021396
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5917147235120540837}
+  m_LocalRotation: {x: 0.9094674, y: -0.0000011967603, z: -0.000013759161, w: 0.41577524}
+  m_LocalPosition: {x: -0.77483344, y: 0.00000023841858, z: 0.0000013113022}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5808486700448071003}
+  m_Father: {fileID: 4737976786353613210}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5975086190206362140
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6383585586224678995}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058index1_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6383585586224678995
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5975086190206362140}
+  m_LocalRotation: {x: -0.6531481, y: 0.0653855, z: 0.19434284, w: 0.7289397}
+  m_LocalPosition: {x: -1.0796525, y: -0.00000023841858, z: 0.00000023841858}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children:
+  - {fileID: 2737819346369325239}
+  m_Father: {fileID: 654997167758711706}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5982788887303820746
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1428842324510417123}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Pinky4_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1428842324510417123
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5982788887303820746}
+  m_LocalRotation: {x: 0.8691959, y: -0.0000014806221, z: -0.0000044231683, w: 0.4944679}
+  m_LocalPosition: {x: -0.6991248, y: -0.00000023841858, z: 0.00000047683716}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 3127247512485242259}
+  m_Father: {fileID: 9017589023527299596}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6051258597879002504
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7857469816322393283}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Thumb1_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7857469816322393283
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6051258597879002504}
+  m_LocalRotation: {x: -0.23680033, y: 0.5161451, z: -0.29091388, w: 0.7699928}
+  m_LocalPosition: {x: -1.0796736, y: -0.0000009536743, z: 0.000000834465}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_Children:
+  - {fileID: 2138907568139550141}
+  m_Father: {fileID: 8343544187008133115}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6153789417102860005
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7537531235117492787}
+  - component: {fileID: 7868428731138759390}
+  - component: {fileID: 7868428731138759377}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Root
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7537531235117492787
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6153789417102860005}
+  m_LocalRotation: {x: 0.1416529, y: -0.69321764, z: -0.14185141, w: 0.69228756}
+  m_LocalPosition: {x: 0.000000625849, y: -5.4851456, z: 17.234829}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 2094270965242793359}
+  m_Father: {fileID: 612472621758632339}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &7868428731138759390
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6153789417102860005}
+  serializedVersion: 2
+  m_Mass: 3.125
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &7868428731138759377
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6153789417102860005}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 4.895342, y: 7.9694276, z: 10.162434}
+  m_Center: {x: -13.491184, y: 0.0122048855, z: 0.17772818}
+--- !u!1 &6346952264392162346
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3127247512485242259}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Pinky4_end_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3127247512485242259
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6346952264392162346}
+  m_LocalRotation: {x: -0.0000020116631, y: 0.00000414997, z: 0.0000015385532, w: 1}
+  m_LocalPosition: {x: -0.39891815, y: 0.00000023841858, z: -0.00000086426735}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 1428842324510417123}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6776752371166398776
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3570094502424887967}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058index1_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3570094502424887967
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6776752371166398776}
+  m_LocalRotation: {x: 0.6531471, y: 0.06538456, z: -0.19435966, w: 0.72893625}
+  m_LocalPosition: {x: -1.0796736, y: -0.0000009536743, z: 0.000000834465}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 5255632814364714466}
+  m_Father: {fileID: 8343544187008133115}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6781117783764815458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3748310098842607361}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Thumb3_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3748310098842607361
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6781117783764815458}
+  m_LocalRotation: {x: -0.033416003, y: 0.1319419, z: -0.106779315, w: 0.98492277}
+  m_LocalPosition: {x: -0.8881329, y: 0.0000015944242, z: -0.00000027567148}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4432137673942428995}
+  m_Father: {fileID: 2138907568139550141}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6891616828163417901
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 204407783007453125}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Pinky1_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &204407783007453125
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6891616828163417901}
+  m_LocalRotation: {x: 0.71987295, y: 0.37319994, z: 0.25775096, w: 0.5254229}
+  m_LocalPosition: {x: -1.0796736, y: -0.0000009536743, z: 0.000000834465}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 229985638266002132}
+  m_Father: {fileID: 8343544187008133115}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6954970827481150415
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1780490714447930637}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Pinky2_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1780490714447930637
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6954970827481150415}
+  m_LocalRotation: {x: 0.50100636, y: -0.06660853, z: 0.24263458, w: 0.8280606}
+  m_LocalPosition: {x: -2.7799113, y: 0.00000035762787, z: 0.0000006556511}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children:
+  - {fileID: 233332613204122483}
+  m_Father: {fileID: 6930612673359563805}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &6990425758770675680
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5998010084619193834}
+  - component: {fileID: 7868428732973681879}
+  - component: {fileID: 7868428732973681876}
+  - component: {fileID: 7868428732973681878}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ankle_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5998010084619193834
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6990425758770675680}
+  m_LocalRotation: {x: 0.27793884, y: -0.029674591, z: -0.044466726, w: 0.9591101}
+  m_LocalPosition: {x: -9.151308, y: 0.00000042840838, z: 0.00000011920929}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4957249375163592732}
+  m_Father: {fileID: 2590994879931193521}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &7868428732973681879
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6990425758770675680}
+  serializedVersion: 2
+  m_Mass: 1.875
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!144 &7868428732973681876
+CharacterJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6990425758770675680}
+  m_ConnectedBody: {fileID: 7868428732496676037}
+  m_Anchor: {x: 0, y: 0, z: 0}
+  m_Axis: {x: 1, y: 0, z: 0}
+  m_AutoConfigureConnectedAnchor: 1
+  m_ConnectedAnchor: {x: -9.1513195, y: 0.0000029802322, z: -0.00000071525574}
+  serializedVersion: 2
+  m_SwingAxis: {x: 0, y: -1, z: 0}
+  m_TwistLimitSpring:
+    spring: 0
+    damper: 0
+  m_LowTwistLimit:
+    limit: -7.7824616
+    bounciness: 0
+    contactDistance: 0
+  m_HighTwistLimit:
+    limit: 0
+    bounciness: 0
+    contactDistance: 0
+  m_SwingLimitSpring:
+    spring: 0
+    damper: 0
+  m_Swing1Limit:
+    limit: 10
+    bounciness: 0
+    contactDistance: 0
+  m_Swing2Limit:
+    limit: 30
+    bounciness: 0
+    contactDistance: 0
+  m_EnableProjection: 0
+  m_ProjectionDistance: 0.1
+  m_ProjectionAngle: 180
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 0
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
+--- !u!136 &7868428732973681878
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6990425758770675680}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 2.9635382
+  m_Height: 11.854153
+  m_Direction: 0
+  m_Center: {x: -5.9270763, y: 0, z: 0}
+--- !u!1 &7079606780160524711
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2138907568139550141}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Thumb2_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2138907568139550141
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7079606780160524711}
+  m_LocalRotation: {x: 0.9071176, y: 0.16886891, z: 0.36319235, w: 0.1292761}
+  m_LocalPosition: {x: -1.9462105, y: 0, z: -0.000001847744}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.99999994}
+  m_Children:
+  - {fileID: 3748310098842607361}
+  m_Father: {fileID: 7857469816322393283}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7112946650904280182
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8719914860133090020}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Middle4_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8719914860133090020
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7112946650904280182}
+  m_LocalRotation: {x: 0.085592546, y: 0.0000073443543, z: 0.0000027528683, w: 0.99633026}
+  m_LocalPosition: {x: -0.77477884, y: 0, z: 0.000000834465}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 7548658076082145987}
+  m_Father: {fileID: 6805580011949787560}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7285192961472773396
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8343544187008133115}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Wrist_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8343544187008133115
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7285192961472773396}
+  m_LocalRotation: {x: -0.35141993, y: 0.06775779, z: -0.0846849, w: 0.9299147}
+  m_LocalPosition: {x: -6.5376825, y: -0.00000035762787, z: 0.0000007748604}
+  m_LocalScale: {x: 1, y: 1.0000001, z: 1.0000001}
+  m_Children:
+  - {fileID: 3570094502424887967}
+  - {fileID: 3636934777831832956}
+  - {fileID: 204407783007453125}
+  - {fileID: 1464954261837002142}
+  - {fileID: 7857469816322393283}
+  m_Father: {fileID: 8923252661598810565}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7360973060959295611
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8388135410318883504}
+  m_Layer: 0
+  m_Name: Eyelid_Control_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8388135410318883504
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7360973060959295611}
+  m_LocalRotation: {x: -0.64673924, y: 0.25275245, z: -0.27793574, w: 0.66377425}
+  m_LocalPosition: {x: -2.2804165, y: 3.9110284, z: -2.3736475}
+  m_LocalScale: {x: 0.9999998, y: 0.9999999, z: 1}
+  m_Children: []
+  m_Father: {fileID: 562806251858333846}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7376414626600143338
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7026399082921653758}
+  - component: {fileID: 7868428731585375338}
+  - component: {fileID: 7868428731585375341}
+  - component: {fileID: 7868428731585375340}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Knee_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7026399082921653758
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7376414626600143338}
+  m_LocalRotation: {x: 0.22848623, y: 0.4246641, z: -0.1728858, w: 0.858816}
+  m_LocalPosition: {x: -5.0129414, y: 0.00000059604645, z: 0.000000059604645}
+  m_LocalScale: {x: 0.9999999, y: 0.9999998, z: 0.99999994}
+  m_Children:
+  - {fileID: 228511872423345051}
+  m_Father: {fileID: 8462964447413581091}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &7868428731585375338
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7376414626600143338}
+  serializedVersion: 2
+  m_Mass: 1.875
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!144 &7868428731585375341
+CharacterJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7376414626600143338}
+  m_ConnectedBody: {fileID: 7868428731138759390}
+  m_Anchor: {x: 0, y: 0, z: 0}
+  m_Axis: {x: 1, y: 0, z: 0}
+  m_AutoConfigureConnectedAnchor: 1
+  m_ConnectedAnchor: {x: -0.77948606, y: -0.7467086, z: 3.5180926}
+  serializedVersion: 2
+  m_SwingAxis: {x: 0, y: 1, z: 0}
+  m_TwistLimitSpring:
+    spring: 0
+    damper: 0
+  m_LowTwistLimit:
+    limit: 9.953349
+    bounciness: 0
+    contactDistance: 0
+  m_HighTwistLimit:
+    limit: 16.529108
+    bounciness: 0
+    contactDistance: 0
+  m_SwingLimitSpring:
+    spring: 0
+    damper: 0
+  m_Swing1Limit:
+    limit: 30
+    bounciness: 0
+    contactDistance: 0
+  m_Swing2Limit:
+    limit: 30
+    bounciness: 0
+    contactDistance: 0
+  m_EnableProjection: 0
+  m_ProjectionDistance: 0.1
+  m_ProjectionAngle: 180
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 0
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
+--- !u!136 &7868428731585375340
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7376414626600143338}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 2.7453914
+  m_Height: 9.151304
+  m_Direction: 0
+  m_Center: {x: -4.575652, y: 0, z: 0}
+--- !u!1 &7403280699110566461
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8300121802117953284}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058RightClavicle_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8300121802117953284
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7403280699110566461}
+  m_LocalRotation: {x: -0.349986, y: 0.6617869, z: -0.4708357, w: -0.46675655}
+  m_LocalPosition: {x: -2.97359, y: 0.0000003934838, z: -0.000000010011718}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5217778889306157651}
+  m_Father: {fileID: 847872465245458028}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7514879216776741223
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9189479370866952036}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Pinky4_end_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9189479370866952036
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7514879216776741223}
+  m_LocalRotation: {x: 0.0000015088077, y: 0.000006556496, z: -0.000009924183, w: 1}
+  m_LocalPosition: {x: -0.39891553, y: -0.00000035762787, z: -0.00000071525574}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 3153603087150341120}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7710594478695579898
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2484611595375871068}
+  - component: {fileID: 2563891160277417646}
+  m_Layer: 0
+  m_Name: tongue
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2484611595375871068
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7710594478695579898}
+  m_LocalRotation: {x: 0.15424377, y: -0.0064780014, z: 0.00054645515, w: 0.9880115}
+  m_LocalPosition: {x: -0.14379007, y: 8.7572775, z: 12.802076}
+  m_LocalScale: {x: 1.1735002, y: 1.1735002, z: 1.1735003}
+  m_Children: []
+  m_Father: {fileID: 2902837076518094576}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &2563891160277417646
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7710594478695579898}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 5716344273757800397, guid: d0f1df895c0c25744aa26ff8c977a534, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -4532989226012253944, guid: d0f1df895c0c25744aa26ff8c977a534, type: 3}
+  m_Bones:
+  - {fileID: 7537531235117492787}
+  - {fileID: 2094270965242793359}
+  - {fileID: 3107890167692706589}
+  - {fileID: 2503963750402586237}
+  - {fileID: 4868182118039012713}
+  - {fileID: 847872465245458028}
+  - {fileID: 1800754129233226499}
+  - {fileID: 8374034966541390151}
+  - {fileID: 8742161343678834030}
+  - {fileID: 562806251858333846}
+  - {fileID: 4484586043590789237}
+  - {fileID: 8388135410318883504}
+  - {fileID: 4838451586551749872}
+  - {fileID: 5316813983712264371}
+  - {fileID: 3186527459780955335}
+  - {fileID: 6528629551379286022}
+  - {fileID: 5033076350625983447}
+  - {fileID: 2088592789030535159}
+  - {fileID: 352004028868800989}
+  - {fileID: 5563339826604019608}
+  - {fileID: 4021727079266580389}
+  - {fileID: 6336907578658147182}
+  - {fileID: 7555469975484402764}
+  - {fileID: 8923252661598810565}
+  - {fileID: 8343544187008133115}
+  - {fileID: 3636934777831832956}
+  - {fileID: 4278211600828337130}
+  - {fileID: 4737976786353613210}
+  - {fileID: 6852277386551021396}
+  - {fileID: 5808486700448071003}
+  - {fileID: 3570094502424887967}
+  - {fileID: 5255632814364714466}
+  - {fileID: 1706207516034353652}
+  - {fileID: 1233091576180842208}
+  - {fileID: 9095837307164707641}
+  - {fileID: 1464954261837002142}
+  - {fileID: 7800021424396110964}
+  - {fileID: 6828748976161719460}
+  - {fileID: 7232377933896036380}
+  - {fileID: 8772990852596125453}
+  - {fileID: 204407783007453125}
+  - {fileID: 229985638266002132}
+  - {fileID: 9017589023527299596}
+  - {fileID: 1428842324510417123}
+  - {fileID: 3127247512485242259}
+  - {fileID: 7857469816322393283}
+  - {fileID: 2138907568139550141}
+  - {fileID: 3748310098842607361}
+  - {fileID: 4432137673942428995}
+  - {fileID: 3453475967529045991}
+  - {fileID: 8300121802117953284}
+  - {fileID: 5217778889306157651}
+  - {fileID: 7172649892273109370}
+  - {fileID: 654997167758711706}
+  - {fileID: 56261016454166046}
+  - {fileID: 5021975000118031459}
+  - {fileID: 6805580011949787560}
+  - {fileID: 8719914860133090020}
+  - {fileID: 7548658076082145987}
+  - {fileID: 6383585586224678995}
+  - {fileID: 2737819346369325239}
+  - {fileID: 386116897436203577}
+  - {fileID: 2729280966273690066}
+  - {fileID: 7176986311323075342}
+  - {fileID: 1898161062501766499}
+  - {fileID: 5842940696467148384}
+  - {fileID: 6661875654533264200}
+  - {fileID: 4804693485103805444}
+  - {fileID: 3882614397135114961}
+  - {fileID: 6930612673359563805}
+  - {fileID: 1780490714447930637}
+  - {fileID: 233332613204122483}
+  - {fileID: 3153603087150341120}
+  - {fileID: 9189479370866952036}
+  - {fileID: 2566601951935625583}
+  - {fileID: 2221669934034108913}
+  - {fileID: 6889462167308891044}
+  - {fileID: 5844467875511758746}
+  - {fileID: 663724201397233055}
+  - {fileID: 8462964447413581091}
+  - {fileID: 7026399082921653758}
+  - {fileID: 228511872423345051}
+  - {fileID: 6873464519888102367}
+  - {fileID: 1966778218149269843}
+  - {fileID: 5885094263612233233}
+  - {fileID: 7838357652944253155}
+  - {fileID: 2590994879931193521}
+  - {fileID: 5998010084619193834}
+  - {fileID: 4957249375163592732}
+  - {fileID: 7987983212757792212}
+  - {fileID: 2686915784913060351}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 7537531235117492787}
+  m_AABB:
+    m_Center: {x: -18.645662, y: 8.479506, z: 0.17345893}
+    m_Extent: {x: 1.1252441, y: 1.4078426, z: 0.99399793}
+  m_DirtyAABB: 0
+--- !u!1 &7789809910994397046
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6805580011949787560}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Middle3_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6805580011949787560
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7789809910994397046}
+  m_LocalRotation: {x: 0.027967207, y: 0.0769901, z: 0.09484409, w: 0.9921164}
+  m_LocalPosition: {x: -0.934073, y: 0.0000011920929, z: -0.0000019669533}
+  m_LocalScale: {x: 0.9999998, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8719914860133090020}
+  m_Father: {fileID: 5021975000118031459}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7966383196436218922
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1233091576180842208}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058index4_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1233091576180842208
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7966383196436218922}
+  m_LocalRotation: {x: 0.036548045, y: 0.000010856041, z: 0.000034140863, w: 0.99933195}
+  m_LocalPosition: {x: -0.666016, y: 0.00000047683716, z: -0.00000071525574}
+  m_LocalScale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+  m_Children:
+  - {fileID: 9095837307164707641}
+  m_Father: {fileID: 1706207516034353652}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7998712731904481717
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6336907578658147182}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Clavicle_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6336907578658147182
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7998712731904481717}
+  m_LocalRotation: {x: -0.30764356, y: 0.70057863, z: 0.41089895, w: 0.49568862}
+  m_LocalPosition: {x: -2.97359, y: 0.0000003934838, z: -0.000000010011718}
+  m_LocalScale: {x: 1, y: 0.99999994, z: 0.9999999}
+  m_Children:
+  - {fileID: 7555469975484402764}
+  m_Father: {fileID: 847872465245458028}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8025617124776454304
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4838451586551749872}
+  m_Layer: 0
+  m_Name: Eyelid_Control_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4838451586551749872
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8025617124776454304}
+  m_LocalRotation: {x: -0.64673924, y: 0.25275233, z: -0.27793568, w: 0.6637743}
+  m_LocalPosition: {x: -2.385083, y: 3.9340208, z: 2.5567403}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_Children: []
+  m_Father: {fileID: 562806251858333846}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8043205649638736287
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1464954261837002142}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ring1_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1464954261837002142
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8043205649638736287}
+  m_LocalRotation: {x: 0.75914294, y: 0.25769138, z: 0.12400217, w: 0.5847398}
+  m_LocalPosition: {x: -1.0796736, y: -0.0000009536743, z: 0.000000834465}
+  m_LocalScale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+  m_Children:
+  - {fileID: 7800021424396110964}
+  m_Father: {fileID: 8343544187008133115}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8062875002786647768
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 228511872423345051}
+  - component: {fileID: 7868428732822557901}
+  - component: {fileID: 7868428732822557898}
+  - component: {fileID: 7868428732822557900}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Ankle_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &228511872423345051
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8062875002786647768}
+  m_LocalRotation: {x: -0.31657767, y: 0.00081247353, z: 0.003333637, w: 0.9485604}
+  m_LocalPosition: {x: -9.15, y: -0.09, z: -0.12}
+  m_LocalScale: {x: 0.99999994, y: 1.0000001, z: 1}
+  m_Children:
+  - {fileID: 6873464519888102367}
+  m_Father: {fileID: 7026399082921653758}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!54 &7868428732822557901
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8062875002786647768}
+  serializedVersion: 2
+  m_Mass: 1.875
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!144 &7868428732822557898
+CharacterJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8062875002786647768}
+  m_ConnectedBody: {fileID: 7868428731585375338}
+  m_Anchor: {x: 0, y: 0, z: 0}
+  m_Axis: {x: 1, y: 0, z: 0}
+  m_AutoConfigureConnectedAnchor: 1
+  m_ConnectedAnchor: {x: -9.150007, y: -0.09000232, z: -0.12000109}
+  serializedVersion: 2
+  m_SwingAxis: {x: 0, y: 1, z: 0}
+  m_TwistLimitSpring:
+    spring: 0
+    damper: 0
+  m_LowTwistLimit:
+    limit: -9.376181
+    bounciness: 0
+    contactDistance: 0
+  m_HighTwistLimit:
+    limit: 3.8874598
+    bounciness: 0
+    contactDistance: 0
+  m_SwingLimitSpring:
+    spring: 0
+    damper: 0
+  m_Swing1Limit:
+    limit: 10
+    bounciness: 0
+    contactDistance: 0
+  m_Swing2Limit:
+    limit: 30
+    bounciness: 0
+    contactDistance: 0
+  m_EnableProjection: 0
+  m_ProjectionDistance: 0.1
+  m_ProjectionAngle: 180
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 0
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
+--- !u!136 &7868428732822557900
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8062875002786647768}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 1.91
+  m_Height: 11.854089
+  m_Direction: 0
+  m_Center: {x: -5.32, y: -0.17, z: -0.12}
+--- !u!1 &8099986953558833407
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7555469975484402764}
+  - component: {fileID: 7868428731923397998}
+  - component: {fileID: 7868428731923397985}
+  - component: {fileID: 7868428731923397984}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Shoulder_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7555469975484402764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8099986953558833407}
+  m_LocalRotation: {x: 0.099653766, y: 0.17565823, z: -0.31656143, w: 0.92682374}
+  m_LocalPosition: {x: -5.4098315, y: -0.049659617, z: -0.003190041}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.9999999}
+  m_Children:
+  - {fileID: 8923252661598810565}
+  m_Father: {fileID: 6336907578658147182}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 17.214, y: 15.952001, z: -35.286003}
+--- !u!54 &7868428731923397998
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8099986953558833407}
+  serializedVersion: 2
+  m_Mass: 1.25
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!144 &7868428731923397985
+CharacterJoint:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8099986953558833407}
+  m_ConnectedBody: {fileID: 7868428733106366714}
+  m_Anchor: {x: 0, y: 0, z: 0}
+  m_Axis: {x: 0, y: 1, z: 0}
+  m_AutoConfigureConnectedAnchor: 1
+  m_ConnectedAnchor: {x: -4.744771, y: 0.10191609, z: 5.112149}
+  serializedVersion: 2
+  m_SwingAxis: {x: 0, y: 0, z: 1}
+  m_TwistLimitSpring:
+    spring: 0
+    damper: 0
+  m_LowTwistLimit:
+    limit: -100
+    bounciness: 0
+    contactDistance: 0
+  m_HighTwistLimit:
+    limit: 60
+    bounciness: 0
+    contactDistance: 0
+  m_SwingLimitSpring:
+    spring: 0
+    damper: 0
+  m_Swing1Limit:
+    limit: 60
+    bounciness: 0
+    contactDistance: 0
+  m_Swing2Limit:
+    limit: 50
+    bounciness: 0
+    contactDistance: 0
+  m_EnableProjection: 0
+  m_ProjectionDistance: 0.1
+  m_ProjectionAngle: 180
+  m_BreakForce: Infinity
+  m_BreakTorque: Infinity
+  m_EnableCollision: 0
+  m_EnablePreprocessing: 0
+  m_MassScale: 1
+  m_ConnectedMassScale: 1
+--- !u!136 &7868428731923397984
+CapsuleCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8099986953558833407}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  m_Radius: 1.8807389
+  m_Height: 7.5229554
+  m_Direction: 0
+  m_Center: {x: -3.7614777, y: 0, z: 0}
+--- !u!1 &8243195030529873503
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6890535362829510282}
+  - component: {fileID: 764772849616079257}
+  m_Layer: 0
+  m_Name: leftEye
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6890535362829510282
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8243195030529873503}
+  m_LocalRotation: {x: 0.35218558, y: 0.19392055, z: -0.66999507, w: 0.62407273}
+  m_LocalPosition: {x: -2.016249, y: 12.305023, z: 13.347487}
+  m_LocalScale: {x: 0.66000026, y: 0.6619078, z: 0.6600002}
+  m_Children: []
+  m_Father: {fileID: 2902837076518094576}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &764772849616079257
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8243195030529873503}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: a598a89733043b440988cf71700d1542, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 8124762148104576395, guid: d0f1df895c0c25744aa26ff8c977a534, type: 3}
+  m_Bones:
+  - {fileID: 7537531235117492787}
+  - {fileID: 2094270965242793359}
+  - {fileID: 3107890167692706589}
+  - {fileID: 2503963750402586237}
+  - {fileID: 4868182118039012713}
+  - {fileID: 847872465245458028}
+  - {fileID: 1800754129233226499}
+  - {fileID: 8374034966541390151}
+  - {fileID: 8742161343678834030}
+  - {fileID: 562806251858333846}
+  - {fileID: 4484586043590789237}
+  - {fileID: 8388135410318883504}
+  - {fileID: 4838451586551749872}
+  - {fileID: 5316813983712264371}
+  - {fileID: 3186527459780955335}
+  - {fileID: 6528629551379286022}
+  - {fileID: 5033076350625983447}
+  - {fileID: 2088592789030535159}
+  - {fileID: 352004028868800989}
+  - {fileID: 5563339826604019608}
+  - {fileID: 4021727079266580389}
+  - {fileID: 6336907578658147182}
+  - {fileID: 7555469975484402764}
+  - {fileID: 8923252661598810565}
+  - {fileID: 8343544187008133115}
+  - {fileID: 3636934777831832956}
+  - {fileID: 4278211600828337130}
+  - {fileID: 4737976786353613210}
+  - {fileID: 6852277386551021396}
+  - {fileID: 5808486700448071003}
+  - {fileID: 3570094502424887967}
+  - {fileID: 5255632814364714466}
+  - {fileID: 1706207516034353652}
+  - {fileID: 1233091576180842208}
+  - {fileID: 9095837307164707641}
+  - {fileID: 1464954261837002142}
+  - {fileID: 7800021424396110964}
+  - {fileID: 6828748976161719460}
+  - {fileID: 7232377933896036380}
+  - {fileID: 8772990852596125453}
+  - {fileID: 204407783007453125}
+  - {fileID: 229985638266002132}
+  - {fileID: 9017589023527299596}
+  - {fileID: 1428842324510417123}
+  - {fileID: 3127247512485242259}
+  - {fileID: 7857469816322393283}
+  - {fileID: 2138907568139550141}
+  - {fileID: 3748310098842607361}
+  - {fileID: 4432137673942428995}
+  - {fileID: 3453475967529045991}
+  - {fileID: 8300121802117953284}
+  - {fileID: 5217778889306157651}
+  - {fileID: 7172649892273109370}
+  - {fileID: 654997167758711706}
+  - {fileID: 56261016454166046}
+  - {fileID: 5021975000118031459}
+  - {fileID: 6805580011949787560}
+  - {fileID: 8719914860133090020}
+  - {fileID: 7548658076082145987}
+  - {fileID: 6383585586224678995}
+  - {fileID: 2737819346369325239}
+  - {fileID: 386116897436203577}
+  - {fileID: 2729280966273690066}
+  - {fileID: 7176986311323075342}
+  - {fileID: 1898161062501766499}
+  - {fileID: 5842940696467148384}
+  - {fileID: 6661875654533264200}
+  - {fileID: 4804693485103805444}
+  - {fileID: 3882614397135114961}
+  - {fileID: 6930612673359563805}
+  - {fileID: 1780490714447930637}
+  - {fileID: 233332613204122483}
+  - {fileID: 3153603087150341120}
+  - {fileID: 9189479370866952036}
+  - {fileID: 2566601951935625583}
+  - {fileID: 2221669934034108913}
+  - {fileID: 6889462167308891044}
+  - {fileID: 5844467875511758746}
+  - {fileID: 663724201397233055}
+  - {fileID: 8462964447413581091}
+  - {fileID: 7026399082921653758}
+  - {fileID: 228511872423345051}
+  - {fileID: 6873464519888102367}
+  - {fileID: 1966778218149269843}
+  - {fileID: 5885094263612233233}
+  - {fileID: 7838357652944253155}
+  - {fileID: 2590994879931193521}
+  - {fileID: 5998010084619193834}
+  - {fileID: 4957249375163592732}
+  - {fileID: 7987983212757792212}
+  - {fileID: 2686915784913060351}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 7537531235117492787}
+  m_AABB:
+    m_Center: {x: -22.093315, y: 9.173748, z: 2.1887023}
+    m_Extent: {x: 1.2697582, y: 1.2625284, z: 0.95696974}
+  m_DirtyAABB: 0
+--- !u!1 &8255544768162242768
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 352004028868800989}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058joint4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &352004028868800989
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8255544768162242768}
+  m_LocalRotation: {x: 0.0024339047, y: 0.000040618506, z: -0.10317538, w: 0.99466026}
+  m_LocalPosition: {x: -0.39891484, y: 0.0000000949949, z: -0.000000016763806}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000001}
+  m_Children:
+  - {fileID: 5563339826604019608}
+  m_Father: {fileID: 2088592789030535159}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8261423717322873617
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1800754129233226499}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Neck1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1800754129233226499
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8261423717322873617}
+  m_LocalRotation: {x: -0.0023883756, y: 0.0009689522, z: -0.36377156, w: 0.93148464}
+  m_LocalPosition: {x: -2.97359, y: 0.0000003934838, z: -0.000000010011718}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8374034966541390151}
+  m_Father: {fileID: 847872465245458028}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8560575720210381193
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8462964447413581091}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Hip_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8462964447413581091
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8560575720210381193}
+  m_LocalRotation: {x: -0.013238323, y: 0.893121, z: 0.22449628, w: 0.38956523}
+  m_LocalPosition: {x: -3.1867921, y: 0.00000094609294, z: 0.000000001164153}
+  m_LocalScale: {x: 1, y: 1, z: 1.0000002}
+  m_Children:
+  - {fileID: 7026399082921653758}
+  m_Father: {fileID: 2094270965242793359}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8575152813792416077
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9095837307164707641}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058index4_end_L
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9095837307164707641
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8575152813792416077}
+  m_LocalRotation: {x: 0.000012978489, y: -0.000026175958, z: -0.00001612644, w: 1}
+  m_LocalPosition: {x: -0.39891976, y: 0, z: -0.00000023841858}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1233091576180842208}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &8745670880654807250
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 663724201397233055}
+  m_Layer: 0
+  m_Name: Fetus_Maya_2018FBXASC058Thumb4_end_R
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &663724201397233055
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8745670880654807250}
+  m_LocalRotation: {x: 0.00000047683258, y: 0.0000023227194, z: 0.0000019669521, w: 1}
+  m_LocalPosition: {x: -0.3989184, y: 0.00000047683716, z: -0.00000011920929}
+  m_LocalScale: {x: 1, y: 1, z: 0.99999994}
+  m_Children: []
+  m_Father: {fileID: 5844467875511758746}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
