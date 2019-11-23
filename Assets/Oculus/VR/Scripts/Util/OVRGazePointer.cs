@@ -1,17 +1,22 @@
-/************************************************************************************
-Copyright : Copyright (c) Facebook Technologies, LLC and its affiliates. All rights reserved.
+﻿/************************************************************************************
 
-Licensed under the Oculus Utilities SDK License Version 1.31 (the "License"); you may not use
-the Utilities SDK except in compliance with the License, which is provided at the time of installation
-or download, or which otherwise accompanies this software in either electronic or hard copy form.
+Copyright   :   Copyright 2017 Oculus VR, LLC. All Rights reserved.
+
+Licensed under the Oculus VR Rift SDK License Version 3.4.1 (the "License");
+you may not use the Oculus VR Rift SDK except in compliance with the License,
+which is provided at the time of installation or download, or which
+otherwise accompanies this software in either electronic or hard copy form.
 
 You may obtain a copy of the License at
-https://developer.oculus.com/licenses/utilities-1.31
 
-Unless required by applicable law or agreed to in writing, the Utilities SDK distributed
-under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF
-ANY KIND, either express or implied. See the License for the specific language governing
-permissions and limitations under the License.
+https://developer.oculus.com/licenses/sdk-3.4.1
+
+
+Unless required by applicable law or agreed to in writing, the Oculus VR SDK
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
 ************************************************************************************/
 
@@ -23,7 +28,7 @@ using UnityEngine.UI;
 /// <summary>
 /// UI pointer driven by gaze input.
 /// </summary>
-public class OVRGazePointer : OVRCursor {
+public class OVRGazePointer : MonoBehaviour {
     private Transform gazeIcon; //the transform that rotates according to our movement
 
     [Tooltip("Should the pointer be hidden when not over interactive objects.")]
@@ -40,8 +45,6 @@ public class OVRGazePointer : OVRCursor {
 
     [Tooltip("Angular scale of pointer")]
     public float depthScaleMultiplier = 0.03f;
-
-    public bool matchNormalOnPhysicsColliders;
 
     /// <summary>
     /// The gaze ray.
@@ -75,6 +78,9 @@ public class OVRGazePointer : OVRCursor {
     /// Last time pointer was requested to be hidden. Usually mouse pointer activity.
     /// </summary>
     private float lastHideRequestTime;
+
+    [Tooltip("Radius of the cursor. Used for preventing geometry intersections.")]
+    public float cursorRadius = 1f;
 
     // Optionally present GUI element displaying progress when using gaze-to-select mechanics
     private OVRProgressIndicator progressIndicator;
@@ -184,11 +190,9 @@ public class OVRGazePointer : OVRCursor {
     /// </summary>
     /// <param name="pos"></param>
     /// <param name="normal"></param>
-    public override void SetCursorStartDest(Vector3 _, Vector3 pos, Vector3 normal)
+    public void SetPosition(Vector3 pos, Vector3 normal)
     {
         transform.position = pos;
-
-        if (!matchNormalOnPhysicsColliders) normal = rayTransform.forward;
         
         // Set the rotation to match the normal of the surface it's on.
         Quaternion newRot = transform.rotation;
@@ -203,12 +207,20 @@ public class OVRGazePointer : OVRCursor {
         transform.localScale = new Vector3(currentScale, currentScale, currentScale);
 
         positionSetsThisFrame++;
-        RequestShow();
     }
 
-    public override void SetCursorRay(Transform ray)
+    /// <summary>
+    /// SetPosition overload without normal. Just makes cursor face user
+    /// </summary>
+    /// <param name="pos"></param>
+    public void SetPosition(Vector3 pos)
     {
-        // We don't do anything here, because we already set this properly by default in Update.
+        SetPosition(pos, rayTransform.forward);
+    }
+
+    public float GetCurrentRadius()
+    {
+        return cursorRadius * currentScale;
     }
 
     void LateUpdate()
