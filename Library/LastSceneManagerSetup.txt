@@ -1,9 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/WorkingTestScene.unity
   isLoaded: 1
   isActive: 1
-  isSubScene: 0
-- path: Assets/Oculus/VR/Scenes/Room.unity
-  isLoaded: 1
-  isActive: 0
   isSubScene: 0
