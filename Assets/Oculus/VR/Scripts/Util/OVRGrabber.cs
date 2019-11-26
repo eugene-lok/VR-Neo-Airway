@@ -22,7 +22,9 @@ using UnityEngine;
 /// </summary>
 [RequireComponent(typeof(Rigidbody))]
 public class OVRGrabber : MonoBehaviour
-{
+{   
+
+    public AudioClip hapticAudioClip;    
     // Grip trigger thresholds for picking up objects, with some hysteresis.
     public float grabBegin = 0.55f;
     public float grabEnd = 0.35f;
@@ -169,6 +171,13 @@ public class OVRGrabber : MonoBehaviour
         int refCount = 0;
         m_grabCandidates.TryGetValue(grabbable, out refCount);
         m_grabCandidates[grabbable] = refCount + 1;
+
+        //Audio Clip
+        OVRHapticsClip hapticsClip = new OVRHapticsClip(hapticAudioClip);
+        if(m_controller == OVRInput.Controller.LTouch)
+            OVRHaptics.LeftChannel.Preempt(hapticsClip);
+        else
+            OVRHaptics.RightChannel.Preempt(hapticsClip);
     }
 
     void OnTriggerExit(Collider otherCollider)

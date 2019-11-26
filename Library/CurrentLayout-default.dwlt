@@ -47,7 +47,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 344}
   m_MaxSize: {x: 12008, y: 8044}
   vertical: 0
-  controlID: 54
+  controlID: 121
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -149,7 +149,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 950, y: 394}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -337,20 +337,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Models
+    - Assets/Oculus/VR/Scripts/Util
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Models
+  - Assets/Oculus/VR/Scripts/Util
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\khors\Downloads\VR-Neo-Airway
+  m_LastProjectPath: D:\VR-Neo-Airway
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 50340000
-    m_LastClickedID: 13392
-    m_ExpandedIDs: 000000000a2c0000942c00003631000062310000383200003c3300008a33000082340000b6350000e635000078360000f03700003e3800005e38000040390000ae390000e63900007a3a00007e3a0000f43a0000223b00003e3e000000ca9a3b
+    scrollPos: {x: 0, y: 435}
+    m_SelectedIDs: 1c340000
+    m_LastClickedID: 13340
+    m_ExpandedIDs: 000000000a2c0000942c000036310000623100003e330000583300008e3300000434000088340000bc350000ec3500006636000080360000f837000046380000663800004a390000b8390000f0390000843a0000883a0000fe3a00002c3b0000ca3c0000d03c0000483e0000563f0000e444000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000000a2c0000942c00003631000062310000383200003c3300008a33000082340000b6350000e635000078360000f03700003e3800005e38000040390000ae390000e63900007a3a00007e3a0000f43a0000223b00003e3e0000
+    m_ExpandedIDs: 000000000a2c0000942c000036310000623100003e3300008e33000088340000bc350000ec35000080360000f837000046380000663800004a390000b8390000f0390000843a0000883a0000fe3a00002c3b0000483e0000e4440000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -403,9 +403,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 60fbffff
-    m_LastClickedInstanceID: -1184
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: 5a410000
+    m_LastClickedInstanceID: 16730
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300003c0a0000125c0000b43400005c2f0000a2330000b43e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -430,7 +430,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 41.5}
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 441
@@ -501,9 +501,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 60fbffff
-      m_LastClickedID: -1184
-      m_ExpandedIDs: 6afbffff
+      m_SelectedIDs: 3ef9ffff
+      m_LastClickedID: -1730
+      m_ExpandedIDs: 5cf8ffff68f8ffff72f8ffff6afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -563,9 +563,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.8681514, y: 1.7082222, z: -0.7180019}
+    m_Target: {x: 0.5321225, y: 1.1106436, z: -1.9790595}
     speed: 2
-    m_Value: {x: 0.8681514, y: 1.7082222, z: -0.7180019}
+    m_Value: {x: 0.5321225, y: 1.1106436, z: -1.9790595}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -594,13 +594,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0, y: 0, z: 0, w: 1}
+    m_Target: {x: 0.035431694, y: 0.95618975, z: -0.25969845, w: 0.13045543}
     speed: 2
-    m_Value: {x: 0, y: 0, z: 0, w: 1}
+    m_Value: {x: 0.035431407, y: 0.956182, z: -0.25969633, w: 0.13045438}
   m_Size:
-    m_Target: 1.5242484
+    m_Target: 1.7882957
     speed: 2
-    m_Value: 1.5242484
+    m_Value: 1.7882957
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -686,18 +686,18 @@ MonoBehaviour:
       y: 17
       width: 831
       height: 423
-    m_Scale: {x: 2.1218, y: 2.1218}
-    m_Translation: {x: 422.6761, y: 152.91223}
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 415.5, y: 211.5}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -199.20638
-      y: -72.06722
-      width: 391.64862
-      height: 199.35904
+      x: -415.5
+      y: -211.5
+      width: 831
+      height: 423
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
