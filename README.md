@@ -7,7 +7,7 @@ and the hospital assets, which were slightly modified for this project.
 ## How do I run this project? 
 This project can only run with Oculus Rift/Rift S, allowing the user to properly see and interact with the simulation. 
 
-Note: The simulation was does **not** work with the Oculus Quest.
+Note: The simulation does **not** work with the Oculus Quest.
 
 1. Download Unity Version 2019.2.13f1.
 2. Install the [Android Tools SDK](https://developer.android.com/studio/). 
